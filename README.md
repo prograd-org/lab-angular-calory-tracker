@@ -72,7 +72,7 @@ To generate the starter code, follow the steps given below
     - ```ng serve --open or ng serve -o```
     
 
-## Progression 1 | Display Foods
+## PROGRESSION 1 | Display Foods
 
 In the `app-food-list` component, display a list of the foods. This should include the food's image, its name, and its calorie count.
 
@@ -80,13 +80,13 @@ Notice, we've already imported an array of objects containing food into the comp
 
 **Make sure the image's src property is properly bound** so that any time the value is changed in the Typescript class, the change is reflected in the DOM.  
 
-### Iteration 2 | Search Foods
+## PROGRESSION 2 | Search Foods
 
 Create an input box to search through the foods by name.
 
 You're going to need to generate a custom *pipe* to do this. Reference the example from the lesson on pipes, as it will be very similar.
 
-### Iteration 3 | Add New Foods
+## PROGRESSION 3 | Add New Foods
 
 Create a button to add new foods.
 
@@ -96,13 +96,13 @@ When the user clicks submit, the food will be added to the list.
 
 The form should disappear when the user clicks the submit button.  
 
-### Iteration 4 | Today's Foods List
+## PROGRESSION 4 | Today's Foods List
 
 Create a button next to each item. When a user clicks the button, the corresponding food should be added to a special list of foods which are "today's foods".
 
 Somewhere on the page, display a list of today's foods, with a total calorie count.
 
-### Bonus | Quantities
+## Bonus | Quantities
 
 In addition to the "Add to today's list" button, create an input for quantity. Whenever a user enters a number into the input, you should add that many of the item to their list.
 
