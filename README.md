@@ -102,13 +102,13 @@ Create a button next to each item. When a user clicks the button, the correspond
 
 Somewhere on the page, display a list of today's foods, with a total calorie count.
 
-## Bonus | Quantities
+## BONUS | Quantities
 
 In addition to the "Add to today's list" button, create an input for quantity. Whenever a user enters a number into the input, you should add that many of the item to their list.
 
 The default quanitity should be 1.
 
-**Super Bonus**
+**SUPER BONUS**
 
 If the user has added more than 1 item of the same type to their list, don't display it twice. Instead, display the item's name, and the number of times it has been added.
 
