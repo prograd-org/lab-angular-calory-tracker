@@ -8,7 +8,7 @@ At this point in the course, we know you have a tight schedule and your day is a
 
 Well, let's not regret about it anymore. Think of what could you do to stay fit at present.
 
-Our solution: Eat Healthy
+Our solution: Eat Healthy 🍉🍈🍇🍅🍓🍒
 
 Now, how would you know what you consume is healthy or not or how many calories does it contain?
 
