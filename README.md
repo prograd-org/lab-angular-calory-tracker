@@ -112,6 +112,9 @@ For instance:
 - `Salmon x5`
 - `Cake`
 
-
+## Expected Output:
+![image-1](https://i1.faceprep.in/ProGrad/ts-calory-tracker1.png)
+![image-2](https://i1.faceprep.in/ProGrad/ts-calory-tracker2.png)
+![image-3](https://i1.faceprep.in/ProGrad/ts-calory-tracker3.png)
 
 Happy Coding ProGrad ❤️!
