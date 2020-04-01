@@ -80,7 +80,7 @@ Notice, we've already imported an array of objects containing food into the comp
 
 ## Progression 2: Search Foods
 
-Create an input box to search through the foods by name. You're going to need to generate a custom *pipe* to do this. Refer the example from the lesson on pipes, as it will be very helpful.
+Create an input box to search through the foods by name. You're going to need to generate a custom *pipe* to do this. Refer the example from the lesson on pipes, as it will be very helpful or you can also refer this link: https://angular.io/guide/pipes
 
 ## Progression 3: Add New Foods
 
